@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Mukesh",
+      "subject": "Math",
+      "age": 22,
+      "grade": "A"
+    },
+    {
+      "id": "2",
+      "name": "Gaurav",
+      "subject": "English",
+      "age": 25,
+      "grade": "B"
+    },
+    {
+      "id": "3",
+      "name": "Shivam",
+      "subject": "Hindi",
+      "age": 26,
+      "grade": "A"
+    },
+    {
+      "id": "5",
+      "name": "Shobhit",
+      "subject": "Physics",
+      "age": 24,
+      "grade": "C"
+    },
+    {
+      "id": "6",
+      "name": "Reena",
+      "subject": "Chemistry",
+      "age": 21,
+      "grade": "A"
+    },
+    {
+      "id": "7",
+      "name": "Shreya",
+      "subject": "Biology",
+      "age": 26,
+      "grade": "A"
+    },
+    {
+      "id": 0,
+      "name": "Gaurav",
+      "subject": "English",
+      "age": 23,
+      "grade": "B"
+    }
+  ]
+}
